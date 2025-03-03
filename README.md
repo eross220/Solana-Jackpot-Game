@@ -1,1 +1,1 @@
-# Jackpot_project
+# Jackpot_game
